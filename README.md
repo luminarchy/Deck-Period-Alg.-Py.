@@ -21,6 +21,8 @@ For our convenience and simplicity, we are numbering each card rather than consi
 
 The variable labeled *cardCheck* will denote the number of cards in the deck. The code will print the order of the cards after each perfect shuffle, and once the deck has reverted back to original position, the period will be printed. 
 
+Comments on the code are shown on the bottomdown.py file
+
 ### .Further Implications and Project results. 
 There may not be any implications of such a niche project; however, I find it quite interesting that if the period of card decks were to be graphed it looks eerily similar to the graph of the Euler's Totient Formula. The mathematical equations to find the period is also included alongside the progam files if any further interest might be piqued. 
 
